@@ -1,0 +1,9 @@
+{
+  "db": "mongodb://localhost/minigift",
+  "base": "http://mini.soulferry.xyz",
+  "qiniu": {
+    "AK": "hzjKu9BlzTGsr7KE_fan_lvxXzvKUQHEkHhhfUZD",
+    "SK": "gDDy2FPPZPIgQuF3dcLsbYBKs3tV6Fu8r0WWpDWm",
+    "bucket": "minigift"
+  }
+}
